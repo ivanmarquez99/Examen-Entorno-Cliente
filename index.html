@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Test</title>
+        <link rel="stylesheet" href="css/estilo.css" type="text/css">
+        <script src="jquery/jquery-3.6.3.js"></script>
+    </head>
+    <body>
+        <h1>Ejercicio 1</h1>
+        <div class="ejercicio1">
+            <p>
+                Haz clic en los elementos para seleccionarlos:
+            </p>
+            <!-- Debes asignar los estilos a la lista.-->
+            <ul>
+                <li>Elemento 1</li>
+                <li>Elemento 2</li>
+                <li>Elemento 3</li>
+                <li>Elemento 4</li>
+            </ul>
+        </div>
+
+
+        <div class="ejercicio2">
+            <h1>Ejercicio 2</h1>
+            <select
+                title="productos"
+                class="productos"
+                name="productos"
+            >
+                <option
+                    selected
+                    disabled
+                    hidden
+                    value="0"
+                >
+                    Ninguno
+                </option>
+                <option value="1">Ropa</option>
+                <option value="2">Papelería</option>
+                <option value="3">Accesorios</option>
+            </select>
+            <span id="cargando"></span>
+            <br>
+            <strong>Productos disponibles:</strong>
+            <select
+                title="productos"
+                class="productos-disponibles"
+                name="productos-disponibles"
+            >
+            </select>
+            <br>
+        </div>
+        <h1>Ejercicio 3</h1>
+        <div class="ejercicio3">
+            <template id="movies">
+                <h2 class="movie-title"></h2>
+                <p class="year"></p>
+                <p class="director"></p>
+                <p class="productor"></p>
+                <p>Reparto:</p>
+                <ul class="lista">
+                    <li class="actor0"></li>
+                    <li class="actor1"></li>
+                    <li class="actor2"></li>
+                </ul>
+            </template>
+        </div>
+        <script></script>
+        <script src="js/app.js"></script>
+    </body>
+</html>

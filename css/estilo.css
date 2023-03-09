@@ -1,0 +1,28 @@
+    body {
+      padding-left: 2px;
+      padding-right: 2px;
+      font-family: Georgia, "Times New Roman",
+        Times, serif;
+      color: purple;
+      background-color: lightblue
+    }
+
+    h1 {
+      font-family: Helvetica, Geneva, Arial,
+        SunSans-Regular, sans-serif;
+      color: white;
+    }
+
+    .resaltado {
+      background-color: yellow;
+    }
+
+    #miLista li {
+      cursor: pointer;
+      padding: 10px;
+      margin-bottom: 5px;
+    }
+
+    .red {
+      color: red;
+    }

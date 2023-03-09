@@ -1,0 +1,103 @@
+<Movies>
+    <Movie>
+      <Title>The Lord of the Rings: The Fellowship of the Ring</Title>
+      <Year>2001</Year>
+      <Director>Peter Jackson</Director>
+      <ProductionCompany>New Line Cinema</ProductionCompany>
+      <Cast>
+        <Actor>
+          <Name>Elijah Wood</Name>
+          <Role>Frodo Baggins</Role>
+        </Actor>
+        <Actor>
+          <Name>Ian McKellen</Name>
+          <Role>Gandalf</Role>
+        </Actor>
+        <Actor>
+          <Name>Viggo Mortensen</Name>
+          <Role>Aragorn</Role>
+        </Actor>
+      </Cast>
+    </Movie>
+    <Movie>
+      <Title>The Lord of the Rings: The Two Towers</Title>
+      <Year>2002</Year>
+      <Director>Peter Jackson</Director>
+      <ProductionCompany>New Line Cinema</ProductionCompany>
+      <Cast>
+        <Actor>
+          <Name>Elijah Wood</Name>
+          <Role>Frodo Baggins</Role>
+        </Actor>
+        <Actor>
+          <Name>Ian McKellen</Name>
+          <Role>Gandalf</Role>
+        </Actor>
+        <Actor>
+          <Name>Viggo Mortensen</Name>
+          <Role>Aragorn</Role>
+        </Actor>
+      </Cast>
+    </Movie>
+    <Movie>
+      <Title>The Lord of the Rings: The Return of the King</Title>
+      <Year>2003</Year>
+      <Director>Peter Jackson</Director>
+      <ProductionCompany>New Line Cinema</ProductionCompany>
+      <Cast>
+        <Actor>
+          <Name>Elijah Wood</Name>
+          <Role>Frodo Baggins</Role>
+        </Actor>
+        <Actor>
+          <Name>Ian McKellen</Name>
+          <Role>Gandalf</Role>
+        </Actor>
+        <Actor>
+          <Name>Viggo Mortensen</Name>
+          <Role>Aragorn</Role>
+        </Actor>
+      </Cast>
+    </Movie>
+    <Movie>
+      <Title>Star Wars: Episode IV - A New Hope</Title>
+      <Year>1977</Year>
+      <Director>George Lucas</Director>
+      <ProductionCompany>Lucasfilm</ProductionCompany>
+      <Cast>
+        <Actor>
+          <Name>Mark Hamill</Name>
+          <Role>Luke Skywalker</Role>
+        </Actor>
+        <Actor>
+          <Name>Harrison Ford</Name>
+          <Role>Han Solo</Role>
+        </Actor>
+        <Actor>
+          <Name>Carrie Fisher</Name>
+          <Role>Princess Leia</Role>
+        </Actor>
+      </Cast>
+    </Movie>
+    <Movie>
+      <Title>Star Wars: Episode V - The Empire Strikes Back</Title>
+      <Year>1980</Year>
+      <Director>Irvin Kershner</Director>
+      <ProductionCompany>Lucasfilm</ProductionCompany>
+      <Cast>
+        <Actor>
+          <Name>Mark Hamill</Name>
+          <Role>Luke Skywalker</Role>
+        </Actor>
+        <Actor>
+          <Name>Harrison Ford</Name>
+          <Role>Han Solo</Role>
+        </Actor>
+        <Actor>
+          <Name>Carrie Fisher</Name>
+          <Role>Princess Leia</Role>
+        </Actor>
+      </Cast>
+    </Movie>
+</Movies>
+  
